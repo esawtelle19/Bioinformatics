@@ -1,0 +1,3 @@
+Original sequence: ACTGATCGAT
+Lowercase sequence: actgatcgat
+Length of sequence: 10
